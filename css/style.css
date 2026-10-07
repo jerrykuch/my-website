@@ -3,11 +3,9 @@
 }
 
 body {
-  margin: 0;
-  font-family: sans-serif;
-  color: #222;
-  background-color: #fff;
-  line-height: 1.6;
+  font-size: 3em;
+  color: gold;
+  background-color: steelblue;
 }
 
 header, main, footer {
